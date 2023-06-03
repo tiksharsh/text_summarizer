@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/text-summarization-nlp/__init__.py
+src/text-summarization-nlp/config/__init__.py
+src/text-summarization-nlp/config/configuration.py
+src/text-summarization-nlp/conponents/__init__.py
+src/text-summarization-nlp/constants/__init__.py
+src/text-summarization-nlp/entity/__init__.py
+src/text-summarization-nlp/logging/__init__.py
+src/text-summarization-nlp/pipeline/__init__.py
+src/text_summarization_nlp.egg-info/PKG-INFO
+src/text_summarization_nlp.egg-info/SOURCES.txt
+src/text_summarization_nlp.egg-info/dependency_links.txt
+src/text_summarization_nlp.egg-info/top_level.txt
