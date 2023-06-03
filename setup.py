@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "text_summarizer"
 AUTHOR_USER_NAME = "tiksharsh"
-SRC_REPO = "textSummarizerNLP"
+SRC_REPO = "textSummarizer"
 AUTHOR_EMAIL = "tiksharsh@icloud.com"
 
 
